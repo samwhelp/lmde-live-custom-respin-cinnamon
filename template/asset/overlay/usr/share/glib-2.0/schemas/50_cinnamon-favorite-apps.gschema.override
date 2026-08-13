@@ -1,0 +1,9 @@
+
+
+[org.cinnamon]
+favorite-apps=['thunar.desktop', 'org.xfce.mousepad.desktop', 'firefox.desktop', 'xfce4-terminal.desktop', 'cinnamon-settings.desktop', 'nemo.desktop', 'sakura.desktop']
+
+
+[org.cinnamon.desktop.default-applications.terminal]
+exec='xfce4-terminal'
+

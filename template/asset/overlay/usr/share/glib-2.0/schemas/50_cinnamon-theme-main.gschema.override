@@ -1,0 +1,26 @@
+
+
+[org.cinnamon.theme]
+name='Mint-L-Dark-Red'
+
+
+[org.cinnamon.desktop.wm.preferences]
+theme-backup='Adwaita'
+theme='Mint-L-Dark-Red'
+
+
+[org.cinnamon.desktop.interface]
+gtk-theme-backup='Adwaita'
+icon-theme-backup='Adwaita'
+gtk-theme='Mint-L-Dark-Red'
+icon-theme='Mint-L-Red'
+cursor-theme='Bibata-Modern-Classic'
+cursor-size=24
+menus-have-icons=true
+buttons-have-icons=true
+font-name='Sans 12'
+
+
+[org.cinnamon.settings-daemon.plugins.xsettings]
+menus-have-icons=true
+buttons-have-icons=true
